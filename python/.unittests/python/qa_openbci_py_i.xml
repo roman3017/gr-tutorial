@@ -1,5 +1,5 @@
-<testsuite errors="1" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.004">
-  <testcase classname="__main__.qa_openbci_py_i" name="test_001_t" time="0.0035">
+<testsuite errors="1" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.001">
+  <testcase classname="__main__.qa_openbci_py_i" name="test_001_t" time="0.0005">
     <error type="exceptions.ValueError">unable to coerce endpoint
   File "/usr/lib/python2.7/unittest/case.py", line 331, in run
     testMethod()
